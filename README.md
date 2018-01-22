@@ -5,7 +5,6 @@
   * [Description and course objectives](docs/description)
   * [Policies on grades, exams, homeworks, etc.](docs/policies.md)
   * [Textbooks](docs/texts.md)
-  * [Course outline and schedule](docs/schedule.md)
   * [Advice: how to get good grades and make the most of your life](docs/advice.md) 
   
 ## Notices
@@ -67,4 +66,8 @@
 | M 05/07 | chaos                         |       | |
 | ? ??/?? | FINAL EXAM | | |             
 
-
+Note: 
+  * Exams will take place during lecture time (1:10-2:00pm) in the lecture hall plus another room to be determined. 
+  * Readings are sections in Zill *First Course in Differential Equations with Modeling Applications, 10th ed.* If you use another text, find the relevant reading using the table of contents or index.
+  * Homeworks are due in recitation on the dates listed below.
+  * Lectures without a specified topic are buffers for the inevitable lag.
