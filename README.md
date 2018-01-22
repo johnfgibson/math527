@@ -1,5 +1,11 @@
 # Math 527 Differential Equations with Linear Algebra
 
+Instructor: John Gibson, office hours t.b.d. Kingsbury N309E
+Lecture: MWF 1:10-2:00pm Spaulding 120
+Teaching Assistants
+  * Eric Kehoe, sections 1-3, office hours t.b.d.
+  * Kyle Teller, sections 4-6, office hours t.b.d.
+  * Olga Letterman, sections 7-9, office hours t.b.d.
 
 ## Syllabus
   * [Description and course objectives](docs/description)
