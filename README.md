@@ -8,7 +8,7 @@ Teaching Assistants
   * Olga Letterman, sections 7-9, office hours t.b.d.
 
 ## Syllabus
-  * [Description and course objectives](docs/description)
+  * [Description and course objectives](docs/description.md)
   * [Policies on grades, exams, homeworks, etc.](docs/policies.md)
   * [Textbooks](docs/texts.md)
   * [Advice: how to get good grades and make the most of your life](docs/advice.md) 
