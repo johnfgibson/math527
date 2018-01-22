@@ -36,11 +36,7 @@
 | F 03/02 | variation of parameters       |      | | 
 | M 03/05 |                               |      | HW5 due Tue 03/06 |
 | W 03/07 | EXAM #2 | | |
-| | | | |
 | F 03/09 |
-| M 03/12 | spring break
-| W 03/14 | spring break
-| F 03/16 | spring break 
 | | | | |
 | | **LAPLACE TRANSFORMS** | | |
 | M 03/19 | definitions, examples         | 7.1 | |
