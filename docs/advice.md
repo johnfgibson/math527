@@ -16,5 +16,5 @@ To get good grades
 To learn and prepare yourself for life (much of the same!)
    * Be careful and organized.
    * Train yourself to focus, think hard, and push out distractions.
-   * Learn to recognize when you're puzzled about something, and then to do something about it. Framing a question is a good start. Be specific. 
+   * Learn to recognize when you're puzzled about something, and then to do something about it. Framing a question is a good start. Craft your question with care. 
    * Take some advanced humanities classes. They'll challenge you in unexpected ways and teach you to think critically and express yourself clearly.
