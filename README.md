@@ -70,7 +70,7 @@ Teaching Assistants
 | W 05/02 | | | |
 | F 05/04 | numerical methods             |       | |
 | M 05/07 | chaos                         |       | |
-| ? ??/?? | FINAL EXAM | | |             
+| W 05/16 | FINAL EXAM 3:30-5:30pm | | |             
 
 Note: 
   * Exams will take place during lecture time (1:10-2:00pm) in the lecture hall plus another room to be determined. 
