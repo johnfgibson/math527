@@ -20,8 +20,8 @@ Teaching Assistants
 | date | topic | reading | HW |
 |------|-------|---------|--------------|
 |  | **FIRST ORDER DIFFERENTIAL EQNS** |  |  |
-| W 01/24 | separable eqns      |  1   |  HW0 ungraded |
-| F 01/26 |                     |  2.2 |  |
+| W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded |
+| F 01/26 |                     |      |  |
 | M 01/29 | 1st order linear    |  2.3 |  |
 | W 01/31 |                     |      | HW1 due Thu 02/01 |
 | F 02/02 | exact equations     |  2.4 |  |
