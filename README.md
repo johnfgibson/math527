@@ -60,13 +60,13 @@ Teaching Assistants
 | | | | |
 | | **SYSTEMS OF DIFFERENTIAL EQUATIONS** | | |
 | F 04/13 | ODEs in matrix form           | 8.1 | |
-| M 04/16 | real eigenvalues, distinct	  | 8.2.1 | HW9 due Tue 04/24 |
+| M 04/16 | real eigenvalues, distinct	  | 8.2.1 | |
 | W 04/18 | | | | 
 | F 04/20 | real eigenvalues, repeated	  | 8.2.2 | |
-| M 04/23 | complex eigenvalues           | 8.2.3 | HW10 due Tue 04/24 |
+| M 04/23 | complex eigenvalues           | 8.2.3 | HW09 due Tue 04/24 |
 | W 04/25 | | | |
 | F 04/27 | phase portraits               |       | |                         
-| M 04/30 | stability                     |       | HW11 due Tue 05/01 |
+| M 04/30 | stability                     |       | HW10 due Tue 05/01 |
 | W 05/02 | | | |
 | F 05/04 | numerical methods             |       | |
 | M 05/07 | chaos                         |       | |
