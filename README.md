@@ -23,7 +23,7 @@ Teaching Assistants
 | W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded |
 | F 01/26 |                     |      |  |
 | M 01/29 | 1st order linear    |  2.3 |  |
-| W 01/31 |                     |      | HW1 due Thu 02/01 |
+| W 01/31 |                     |      | [HW1](hws/hw1.pdf) due Thu 02/01 |
 | F 02/02 | exact equations     |  2.4 |  |
 | M 02/05 |                     |      |  |
 | W 02/07 | substitutions       |  2.5 | HW2 due Thu 02/08 |
