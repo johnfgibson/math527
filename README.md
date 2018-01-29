@@ -19,14 +19,14 @@ Teaching Assistants
 
 | date | topic | reading | HW |
 |------|-------|---------|--------------|
-|  | **FIRST ORDER DIFFERENTIAL EQNS** |  |  |
+|  | **FIRST ORDER DIFFERENTIAL EQUATIONS** |  |  |
 | W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded |
-| F 01/26 |                     |      |  |
-| M 01/29 | 1st order linear    |  2.3 |  |
-| W 01/31 |                     |      | [HW1](hws/hw1.pdf) due Thu 02/01 |
-| F 02/02 | exact equations     |  2.4 |  |
-| M 02/05 |                     |      |  |
-| W 02/07 | substitutions       |  2.5 | HW2 due Thu 02/08 |
+| F 01/26 | 1st order linear    |  2.3 |  |
+| M 01/29 | partial derivatives |      |  |
+| W 01/31 | exact equations     |  2.4 | [HW1](hws/hw1.pdf) due Thu 02/01 |
+| F 02/02 |                     |      |  |
+| M 02/05 | substitutions       |  2.5 |  |
+| W 02/07 | applications        |      | HW2 due Thu 02/08 |
 | F 02/09 | | | |
 | M 02/12 | EXAM #1 | | |  
 | | | | |
