@@ -17,21 +17,21 @@ Teaching Assistants
 
 ## Course outline and schedule
 
-| date | topic | reading | homework | solutions | 
-|------|-------|---------|--------------|
+| date | topic | reading | homework | solutions |
+|------|-------|---------|----------|-----------|
 |  | **FIRST ORDER DIFFERENTIAL EQUATIONS** |  |  | |
 | W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded | |
-| F 01/26 | 1st order linear    |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | |
+| F 01/26 | 1st order linear    |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | [HW1 solns](hws/hw1solns.pdf) |
 | M 01/29 | partial derivatives |  2.3 |  | | |
-| W 01/31 | exact equations     |      |  |  | | 
+| W 01/31 | exact equations     |      |  | | |
 | F 02/02 |                     |  2.4 |  [HW2](hws/hw2.pdf) due Thu 02/08 | |
-| M 02/05 | substitutions       |      |  | | 
-| W 02/07 | solution regions    |  2.5 |  | | 
+| M 02/05 | substitutions       |      |  | |
+| W 02/07 | solution regions    |  2.5 |  | |
 | F 02/09 | applications        |      |  | |
 | M 02/12 | EXAM #1 | | | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
-| W 02/14 | y = e^(lambda t) is your friend |  4.3 | | |
+| W 02/14 | y = e^(lambda t) is your friend |  4.3 | | | 
 | F 02/16 | repeated roots, reduction of order |  4.2,3 | HW3 due Tue 02/20 | |
 | M 02/19 | complex roots, Euler formula  |   | | | 
 | W 02/21 | basic theory of linear eqns   | 4.1 | HW4 due Tue 02/27 | | 
@@ -42,7 +42,7 @@ Teaching Assistants
 | M 03/05 | variation of parameters       |      | | |
 | W 03/07 | EXAM #2 | | | |
 | F 03/09 | | | | |
-| | | | |
+| | | | | |
 | | **LAPLACE TRANSFORMS** | | | |
 | M 03/19 | definitions, examples         | 7.1 | | |
 | W 03/21 | derivatives, solving ODEs     | 7.2 | | |  
