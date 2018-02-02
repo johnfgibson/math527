@@ -4,8 +4,8 @@ Instructor: John Gibson, office hours TR 11-12, W 2-3, Kingsbury N309E
 Lecture: MWF 1:10-2:00pm Spaulding 120  
 Teaching Assistants
   * Eric Kehoe, sections 1-3, office hours TR 10-11, W 3-4, Kingsbury W350
-  * Kyle Teller, sections 4-6, office hours t.b.d.
-  * Olga Letterman, sections 7-9, office hours t.b.d.
+  * Kyle Teller, sections 4-6, office T 9-11, R 10-11, Kingsbury N316
+  * Olga Letterman, sections 7-9, office hours  MWF 12-1 Kingsbury N212
 
 ## Syllabus
   * [Description and course objectives](docs/description.md)
@@ -19,15 +19,16 @@ Teaching Assistants
 
 | date | topic | reading | HW |
 |------|-------|---------|--------------|
-|  | **FIRST ORDER DIFFERENTIAL EQNS** |  |  |
+|  | **FIRST ORDER DIFFERENTIAL EQUATIONS** |  |  |
 | W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded |
-| F 01/26 |                     |      |  |
-| M 01/29 | 1st order linear    |  2.3 |  |
-| W 01/31 |                     |      | [HW1](hws/hw1.pdf) due Thu 02/01 |
-| F 02/02 | exact equations     |  2.4 |  |
-| M 02/05 |                     |      |  |
-| W 02/07 | substitutions       |  2.5 | [HW2](hws/hw2.pdf) due Thu 02/08 |
-| F 02/09 | | | |
+<<<<<<< HEAD
+| F 01/26 | 1st order linear    |      |  |
+| M 01/29 | partial derivatives |  2.3 |  |
+| W 01/31 | exact equations     |      | [HW1](hws/hw1.pdf) due Thu 02/01 |
+| F 02/02 |                     |  2.4 |  |
+| M 02/05 | substitutions       |      |  |
+| W 02/07 | solution regions    |  2.5 | [HW2](hws/hw2.pdf) due Thu 02/08 |
+| F 02/09 | applications        |      |  |
 | M 02/12 | EXAM #1 | | |  
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | |
@@ -36,10 +37,10 @@ Teaching Assistants
 | M 02/19 | complex roots, Euler formula  |      | HW3 due Tue 02/20 |
 | W 02/21 | | | |
 | F 02/23 | judicious guessing            |  4.4 | |
-| M 02/26 | power series methods          |  4.6 | HW4 due Tue 02/27 |
-| W 02/28 | | | |
-| F 03/02 | variation of parameters       |      | | 
-| M 03/05 |                               |      | HW5 due Tue 03/06 |
+| M 02/26 |                               |      | HW4 due Tue 02/27 |
+| W 02/28 | power series methods          |  4.6 | |
+| F 03/02 |                               |      | | 
+| M 03/05 | variation of parameters       |      | HW5 due Tue 03/06 |
 | W 03/07 | EXAM #2 | | |
 | F 03/09 |
 | | | | |
@@ -73,6 +74,7 @@ Teaching Assistants
 | W 05/16 | FINAL EXAM 3:30-5:30pm | | |             
 
 Note: 
+  * Lecture topics may shift slightly by date, but homeworks and exam dates will not change.
   * Exams will take place during lecture time (1:10-2:00pm) in the lecture hall plus another room to be determined. 
   * Readings are sections in Zill *First Course in Differential Equations with Modeling Applications, 10th ed.* If you use another text, find the relevant reading using the table of contents or index.
   * Homeworks are due in recitation on the dates listed below.
