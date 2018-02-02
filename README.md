@@ -26,7 +26,7 @@ Teaching Assistants
 | W 01/31 |                     |      | [HW1](hws/hw1.pdf) due Thu 02/01 |
 | F 02/02 | exact equations     |  2.4 |  |
 | M 02/05 |                     |      |  |
-| W 02/07 | substitutions       |  2.5 | HW2 due Thu 02/08 |
+| W 02/07 | substitutions       |  2.5 | [HW2](hws/hw2.pdf) due Thu 02/08 |
 | F 02/09 | | | |
 | M 02/12 | EXAM #1 | | |  
 | | | | |
