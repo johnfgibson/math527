@@ -21,25 +21,25 @@ Teaching Assistants
 |------|-------|---------|----------|-----------|
 |  | **FIRST ORDER DIFFERENTIAL EQUATIONS** |  |  | |
 | W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded | |
-| F 01/26 | 1st order linear    |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | [HW1 solns](hws/hw1solns.pdf) |
-| M 01/29 | partial derivatives |  2.3 |  | | |
-| W 01/31 | exact equations     |      |  | | |
-| F 02/02 |                     |  2.4 |  [HW2](hws/hw2.pdf) due Thu 02/08 | |
-| M 02/05 | substitutions       |  2.5 |  | |
-| W 02/07 | solution intervals  |  1.1-2 |  | |
+| F 01/26 | 1st order linear    |      |  |  |
+| M 01/29 | partial derivatives |  2.3 |  |  |
+| W 01/31 | exact equations     |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | [HW1 solns](hws/hw1solns.pdf) | 
+| F 02/02 |                     |  2.4 |  |  |
+| M 02/05 | substitutions       |  2.5 |  |  |
+| W 02/07 | solution intervals  |  1.1-2 | [HW2](hws/hw2.pdf) due Thu 02/08 | |
 | F 02/09 | applications        |      |  | |
 | M 02/12 | EXAM #1 | [sample exam 1](misc/exam1sample.pdf)| | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
 | W 02/14 | y = e^(lambda t) is your friend |  4.3 | | | 
-| F 02/16 | repeated roots, reduction of order |  4.2,3 | HW3 due Tue 02/20 | |
-| M 02/19 | complex roots, Euler formula  |   | | | 
+| F 02/16 | repeated roots, reduction of order |  4.2,3 | | |
+| M 02/19 | complex roots, Euler formula  |   | HW3 due Tue 02/20 | | 
 | W 02/21 | basic theory of linear eqns   | 4.1 | HW4 due Tue 02/27 | | 
 | F 02/23 | judicious guessing            |  4.4 | | |
-| M 02/26 |                               |      | | |
-| W 02/28 | power series methods          |  4.6 | HW5 due Tue 03/06 | | 
+| M 02/26 |                               |      | HW4 due Tue 02/27 | |
+| W 02/28 | power series methods          |  4.6 | | | 
 | F 03/02 |                               |      | | | 
-| M 03/05 | variation of parameters       |      | | |
+| M 03/05 | variation of parameters       |      | HW5 due Tue 03/06| |
 | W 03/07 | EXAM #2 | | | |
 | F 03/09 | | | | |
 | | | | | |
