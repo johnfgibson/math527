@@ -28,7 +28,7 @@ Teaching Assistants
 | M 02/05 | substitutions       |  2.5 |  |  |
 | W 02/07 | solution intervals  |  1.1-2 | [HW2](hws/hw2.pdf) due Thu 02/08 | |
 | F 02/09 | applications        |      |  | |
-| M 02/12 | EXAM #1 | [sample exam 1](misc/exam1sample.pdf)| | |
+| M 02/12 | EXAM #1 | | [sample exam 1](misc/exam1sample.pdf) | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
 | W 02/14 | y = e^(lambda t) is your friend |  4.3 | | | 
