@@ -26,15 +26,15 @@ Teaching Assistants
 | W 01/31 | exact equations     |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | [HW1 solns](hws/hw1solns.pdf) | 
 | F 02/02 |                     |  2.4 |  |  |
 | M 02/05 | substitutions       |  2.5 |  |  |
-| W 02/07 | solution intervals  |  1.1-2 | [HW2](hws/hw2.pdf) due Thu 02/08 | |
-| F 02/09 | applications        |      |  | |
-| M 02/12 | EXAM #1 | | [sample exam 1](misc/exam1sample.pdf) | |
+| W 02/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 02/08 | |
+| F 02/09 | solution intervals  |  1.1-2 |  | |
+| M 02/12 | EXAM #1 | | [expectations](misc/exam1topics.md), [sample exam](misc/exam1sample.pdf) | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
 | W 02/14 | y = e^(lambda t) is your friend |  4.3 | | | 
 | F 02/16 | repeated roots, reduction of order |  4.2,3 | | |
 | M 02/19 | complex roots, Euler formula  |   | HW3 due Tue 02/20 | | 
-| W 02/21 | basic theory of linear eqns   | 4.1 | HW4 due Tue 02/27 | | 
+| W 02/21 | basic theory of linear eqns   | 4.1 |  | | 
 | F 02/23 | judicious guessing            |  4.4 | | |
 | M 02/26 |                               |      | HW4 due Tue 02/27 | |
 | W 02/28 | power series methods          |  4.6 | | | 
