@@ -28,7 +28,7 @@ Teaching Assistants
 | M 02/05 | substitutions       |  2.5 |  |  |
 | W 02/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 02/08 |  [HW2 solns](hws/hw2solns.pdf) |
 | F 02/09 | solution intervals  |  1.1-2 |  | |
-| M 02/12 | EXAM #1 [expectations, locations, advice](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | |
+| M 02/12 | EXAM #1 [expectations, locations, advice](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [smaple exam solns ](misc/exam1samplesolns.pdf) | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
 | W 02/14 | y = e^(lambda t) is your friend |  4.3 | | | 
