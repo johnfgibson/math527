@@ -26,7 +26,7 @@ Teaching Assistants
 | W 01/31 | exact equations     |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | [HW1 solns](hws/hw1solns.pdf) | 
 | F 02/02 |                     |  2.4 |  |  |
 | M 02/05 | substitutions       |  2.5 |  |  |
-| W 02/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 02/08 | |
+| W 02/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 02/08 |  [HW2 solns](hws/hw2solns.pdf) |
 | F 02/09 | solution intervals  |  1.1-2 |  | |
 | M 02/12 | EXAM #1 | | [expectations](misc/exam1topics.md), [sample exam](misc/exam1sample.pdf) | |
 | | | | |
