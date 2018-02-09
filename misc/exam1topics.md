@@ -7,7 +7,7 @@ For exam 1, you should be able to recognize and solve
   * equations requiring substitutions
     - homogeneous*
     - Bernoulli
-    - Ax+By+C
+    - <del>Ax+By+C</del> (drop this topic due to snow day)
   
 You should also be able to 
   * solve initial value problems
