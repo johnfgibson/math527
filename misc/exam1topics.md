@@ -18,3 +18,4 @@ Advice:
   * read the problem statements and do what is asked
   * be careful with algebra and calculus
   * check your answers by substituting them into the ODE, or in the case of exact equations, differentiating f(x,y) = c.
+  * know your section number
