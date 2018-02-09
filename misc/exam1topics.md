@@ -33,6 +33,6 @@ You should also be able to
 |-----------|------|------|
 | 1 2 4 6 9 | Spaulding 120 | 1:10-2:00pm Mon Feb 12 |
 | 3 5 7 8   | Horton 210  | 1:10-2:00pm Mon Feb 12
-| extra time | Kingsbury 3?? | 1:10-2:35pm Mon Feb 12|
+| extra time | Kingsbury 390 | 1:10-2:35pm Mon Feb 12|
 
 In Spaulding 120, sit in alternate seats starting with the first seat off the interior aisle. 
