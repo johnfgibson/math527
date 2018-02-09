@@ -4,8 +4,8 @@ Instructor: John Gibson, office hours TR 11-12, W 2-3, Kingsbury N309E
 Lecture: MWF 1:10-2:00pm Spaulding 120  
 Teaching Assistants
   * Eric Kehoe, sections 1-3, office hours TR 10-11, W 3-4, Kingsbury W350
-  * Kyle Teller, sections 4-6, office T 9-11, R 10-11, Kingsbury N316
-  * Olga Letterman, sections 7-9, office hours  MWF 12-1 Kingsbury N212
+  * Kyle Teller, sections 4-6, office T 8:30-9:30, 2-3, R 2-3, Kingsbury N316
+  * Olga Letterman, sections 7-9, office hours  MWF 12-1 Kingsbury N204
 
 ## Syllabus
   * [Description and course objectives](docs/description.md)
