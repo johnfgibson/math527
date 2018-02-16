@@ -20,57 +20,57 @@ Teaching Assistants
 | date | topic | reading | homework | solutions |
 |------|-------|---------|----------|-----------|
 |  | **FIRST ORDER DIFFERENTIAL EQUATIONS** |  |  | |
-| W 01/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded | |
-| F 01/26 | 1st order linear    |      |  |  |
-| M 01/29 | partial derivatives |  2.3 |  |  |
-| W 01/31 | exact equations     |      |  [HW1](hws/hw1.pdf) due Thu 02/01 | [HW1 solns](hws/hw1solns.pdf) | 
-| F 02/02 |                     |  2.4 |  |  |
-| M 02/05 | substitutions       |  2.5 |  |  |
-| W 02/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 02/08 |  [HW2 solns](hws/hw2solns.pdf) |
-| F 02/09 | solution intervals  |  1.1-2 |  | |
-| M 02/12 | EXAM #1 [expectations, locations, advice](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [smaple exam solns ](misc/exam1samplesolns.pdf) | |
+| W 1/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded | |
+| F 1/26 | 1st order linear    |      |  |  |
+| M 1/29 | partial derivatives |  2.3 |  |  |
+| W 1/31 | exact equations     |      |  [HW1](hws/hw1.pdf) due Thu 2/01 | [HW1 solns](hws/hw1solns.pdf) | 
+| F 2/02 |                     |  2.4 |  |  |
+| M 2/05 | substitutions       |  2.5 |  |  |
+| W 2/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 2/08 |  [HW2 solns](hws/hw2solns.pdf) |
+| F 2/09 | solution intervals  |  1.1-2 |  | |
+| M 2/12 | EXAM #1 [expectations, locations, advice](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [smaple exam solns ](misc/exam1samplesolns.pdf) | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
-| W 02/14 | y = e^(lambda t) is your friend |  4.1 | | | 
-| F 02/16 | repeated roots, reduction of order | 4.2 | | |
-| M 02/19 | complex roots, Euler formula  | 4.3 | | | 
-| W 02/21 | judicious guessing            | 4.4 | [HW3](hws/hw3.pdf) due Thu 02/22  | | 
-| F 02/23 |                               |  | | |
-| M 02/26 | power series methods          | 4.6 | | |
-| W 02/28 |                               |     |  HW4 due Thu 02/29 | | 
-| F 03/02 | variation of parameters       |     | | | 
-| M 03/05 |                               |     | HW5 | |
-| W 03/07 | EXAM #2 | | | |
-| F 03/09 | | | | |
+| W 2/14 | y = e^(lambda t) is your friend |  4.1 | | | 
+| F 2/16 | repeated roots, reduction of order | 4.2 | | |
+| M 2/19 | complex roots, Euler formula  | 4.3 | | | 
+| W 2/21 | judicious guessing            | 4.4 | [HW3](hws/hw3.pdf) due Thu 2/22  | | 
+| F 2/23 |                               |  | | |
+| M 2/26 | power series methods          | 4.6 | | |
+| W 2/28 |                               |     |  HW4 due Thu 2/29 | | 
+| F 3/02 | variation of parameters       |     | | | 
+| M 3/05 |                               |     | HW5 | |
+| W 3/07 | EXAM #2 | | | |
+| F 3/09 | | | | |
 | | | | | |
 | | **LAPLACE TRANSFORMS** | | | |
-| M 03/19 | definitions, examples         | 7.1 | | |
-| W 03/21 | derivatives, solving ODEs     | 7.2 | | |  
-| F 03/23 | s-translation	          | 7.3.1 | | | 
-| M 03/26 | t-translation (Heaviside)     | 7.3.2 | HW6 due Tue 03/27 | |
-| W 03/28 | | | | |                                       
-| F 03/30 | Dirac delta		          | 7.5   | | |
+| M 3/19 | definitions, examples         | 7.1 | | |
+| W 3/21 | derivatives, solving ODEs     | 7.2 | | |  
+| F 3/23 | s-translation	          | 7.3.1 | | | 
+| M 3/26 | t-translation (Heaviside)     | 7.3.2 | HW6 due Tue 3/27 | |
+| W 3/28 | | | | |                                       
+| F 3/30 | Dirac delta		          | 7.5   | | |
 | | | | | |
 | | **LINEAR ALGEBRA** | | | |
-| M 04/02 | vectors and matrices          | App   | HW7 due Tue 04/03 | |
-| W 04/04 | systems of equations          |       | | |
-| F 04/05 | eigenvalues, eigenvectors |
-| M 04/09 |                               |       | HW8 due Tue 04/10 | |
-| W 04/11 | EXAM #3 | | | |
+| M 4/02 | vectors and matrices          | App   | HW7 due Tue 4/03 | |
+| W 4/04 | systems of equations          |       | | |
+| F 4/05 | eigenvalues, eigenvectors |
+| M 4/09 |                               |       | HW8 due Tue 4/10 | |
+| W 4/11 | EXAM #3 | | | |
 | | | | | | 
 | | **SYSTEMS OF DIFFERENTIAL EQUATIONS** | | | |
-| F 04/13 | ODEs in matrix form           | 8.1 | | |
-| M 04/16 | real eigenvalues, distinct	  | 8.2.1 | | |
-| W 04/18 | | | | |
-| F 04/20 | real eigenvalues, repeated	  | 8.2.2 | | |
-| M 04/23 | complex eigenvalues           | 8.2.3 | HW09 due Tue 04/24 | |
-| W 04/25 | | | | |
-| F 04/27 | phase portraits               |       | | |
-| M 04/30 | stability                     |       | HW10 due Tue 05/01 | |
-| W 05/02 | | | | |
-| F 05/04 | numerical methods             |       | | |
-| M 05/07 | chaos                         |       | | |
-| W 05/16 | FINAL EXAM 3:30-5:30pm | | | |            
+| F 4/13 | ODEs in matrix form           | 8.1 | | |
+| M 4/16 | real eigenvalues, distinct	  | 8.2.1 | | |
+| W 4/18 | | | | |
+| F 4/20 | real eigenvalues, repeated	  | 8.2.2 | | |
+| M 4/23 | complex eigenvalues           | 8.2.3 | HW9 due Tue 4/24 | |
+| W 4/25 | | | | |
+| F 4/27 | phase portraits               |       | | |
+| M 4/30 | stability                     |       | HW10 due Tue 5/01 | |
+| W 5/02 | | | | |
+| F 5/04 | numerical methods             |       | | |
+| M 5/07 | chaos                         |       | | |
+| W 5/16 | FINAL EXAM 3:30-5:30pm | | | |            
 
 Note: 
   * Lecture topics may shift slightly by date, but homeworks and exam dates will not change.
