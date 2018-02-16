@@ -31,15 +31,15 @@ Teaching Assistants
 | M 02/12 | EXAM #1 [expectations, locations, advice](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [smaple exam solns ](misc/exam1samplesolns.pdf) | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
-| W 02/14 | y = e^(lambda t) is your friend |  4.3 | | | 
-| F 02/16 | repeated roots, reduction of order |  4.2,3 | | |
-| M 02/19 | complex roots, Euler formula  |   | HW3 due Tue 02/20 | | 
-| W 02/21 | basic theory of linear eqns   | 4.1 |  | | 
-| F 02/23 | judicious guessing            |  4.4 | | |
-| M 02/26 |                               |      | HW4 due Tue 02/27 | |
-| W 02/28 | power series methods          |  4.6 | | | 
-| F 03/02 |                               |      | | | 
-| M 03/05 | variation of parameters       |      | HW5 due Tue 03/06| |
+| W 02/14 | y = e^(lambda t) is your friend |  4.1 | | | 
+| F 02/16 | repeated roots, reduction of order | 4.2 | | |
+| M 02/19 | complex roots, Euler formula  | 4.3 | | | 
+| W 02/21 | judicious guessing            | 4.4 | [HW3](hws/hw3.pdf) due Thu 02/22  | | 
+| F 02/23 |                               |  | | |
+| M 02/26 | power series methods          | 4.6 | | |
+| W 02/28 |                               |     |  HW4 due Thu 02/29 | | 
+| F 03/02 | variation of parameters       |     | | | 
+| M 03/05 |                               |     | HW5 | |
 | W 03/07 | EXAM #2 | | | |
 | F 03/09 | | | | |
 | | | | | |
