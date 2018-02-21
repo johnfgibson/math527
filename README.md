@@ -37,7 +37,7 @@ Teaching Assistants
 | W 2/21 | linearity                     | 4.1 | [HW3](hws/hw3.pdf) due Thu 2/22  | | 
 | F 2/23 | judicious guessing            | 4.4 | | |
 | M 2/26 |                               |     | | |
-| W 2/28 | variation of parameters       | 4.5    |  [HW4](hws/hw4.pdf due Thu 2/29 | | 
+| W 2/28 | variation of parameters       | 4.5    |  [HW4](hws/hw4.pdf) due Thu 2/29 | | 
 | F 3/02 |       |     | | | 
 | M 3/05 |                               |     | HW5 due Tue 3/06| |
 | W 3/07 | EXAM #2 | | | |
