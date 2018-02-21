@@ -34,14 +34,14 @@ Teaching Assistants
 | W 2/14 | y = e^(lambda t) is your friend |  4.1 | | | 
 | F 2/16 | repeated roots, reduction of order | 4.2 | | |
 | M 2/19 | complex roots, Euler formula  | 4.3 | | | 
-| W 2/21 | judicious guessing            | 4.4 | [HW3](hws/hw3.pdf) due Thu 2/22  | | 
-| F 2/23 |                               |  | | |
-| M 2/26 | power series methods          | 4.6 | | |
-| W 2/28 |                               |     |  HW4 due Thu 2/29 | | 
-| F 3/02 | variation of parameters       |     | | | 
-| M 3/05 |                               |     | HW5 | |
+| W 2/21 | linearity                     | 4.1 | [HW3](hws/hw3.pdf) due Thu 2/22  | | 
+| F 2/23 | judicious guessing            | 4.4 | | |
+| M 2/26 |                               |     | | |
+| W 2/28 | variation of parameters       | 4.5    |  HW4 due Thu 2/29 | | 
+| F 3/02 |       |     | | | 
+| M 3/05 |                               |     | HW5 due Tue 3/06| |
 | W 3/07 | EXAM #2 | | | |
-| F 3/09 | | | | |
+| F 3/09 | power series methods | 6 | | |
 | | | | | |
 | | **LAPLACE TRANSFORMS** | | | |
 | M 3/19 | definitions, examples         | 7.1 | | |
