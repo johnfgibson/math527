@@ -28,7 +28,7 @@ Teaching Assistants
 | M 2/05 | substitutions       |  2.5 |  |  |
 | W 2/07 | --snow day--        |      | [HW2](hws/hw2.pdf) due Thu 2/08 |  [HW2 solns](hws/hw2solns.pdf) |
 | F 2/09 | solution intervals  |  1.1-2 |  | |
-| M 2/12 | EXAM #1 [expectations, locations, advice](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [sample exam solns ](misc/exam1samplesolns.pdf) | |
+| M 2/12 | EXAM #1 [expectations, locations](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [sample exam solns ](misc/exam1samplesolns.pdf) | |
 | | | | |
 | | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
 | W 2/14 | y = e^(lambda t) is your friend |  4.1 | | | 
@@ -39,7 +39,7 @@ Teaching Assistants
 | M 2/26 |                               |     | | |
 | W 2/28 | variation of parameters       | 4.5    |  [HW4](hws/hw4.pdf) due Thu 2/29 | | 
 | F 3/02 |       |     | | | 
-| M 3/05 |                               |     | [HW5](hws/hw5.pdf) **ungraded**, do not turn in| [HW5 solns](hws/hw5solns.pdf) |
+| M 3/05 |                               |     | [HW5](hws/hw5.pdf) **ungraded** | [HW5 solns](hws/hw5solns.pdf) |
 | W 3/07 | EXAM #2 | | | |
 | F 3/09 | power series methods | 6 | | |
 | | | | | |
