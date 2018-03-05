@@ -39,7 +39,7 @@ Teaching Assistants
 | M 2/26 |                               |     | | |
 | W 2/28 | variation of parameters       | 4.5    |  [HW4](hws/hw4.pdf) due Thu 2/29 | | 
 | F 3/02 |       |     | | | 
-| M 3/05 |                               |     | [HW5](hws/hw5.pdf) **ungraded**, do not turn in| |
+| M 3/05 |                               |     | [HW5](hws/hw5.pdf) **ungraded**, do not turn in| [HW5 solns](hws/hw5solns.pdf) |
 | W 3/07 | EXAM #2 | | | |
 | F 3/09 | power series methods | 6 | | |
 | | | | | |
