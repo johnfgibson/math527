@@ -40,7 +40,7 @@ Teaching Assistants
 | W 2/28 | variation of parameters       | 4.5 | [HW4](hws/hw4.pdf) due Thu 2/29 | [HW4 solns](hws/hw4solns.pdf) | 
 | F 3/02 |       |     | | | 
 | M 3/05 |                               |     | [HW5](hws/hw5.pdf) **ungraded** | [HW5 solns](hws/hw5solns.pdf) |
-| W 3/07 | EXAM #2 | | | |
+| W 3/07 |  EXAM #2 [expectations, locations](misc/exam2topics.md) | | | |
 | F 3/09 | no lecture | | | |
 | | | | | |
 | | **LAPLACE TRANSFORMS** | | | |
