@@ -47,7 +47,7 @@ Teaching Assistants
 | M 3/19 | definitions, examples         | 7.1 | | |
 | W 3/21 | derivatives, solving ODEs     | 7.2 | | |  
 | F 3/23 | s-translation	          | 7.3.1 | | | 
-| M 3/26 | t-translation (Heaviside)     | 7.3.2 | HW6 due Tue 3/27 | |
+| M 3/26 | t-translation (Heaviside)     | 7.3.2 |  [HW6](hws/hw6.pdf) due Tue 3/27 | |
 | W 3/28 | | | | |                                       
 | F 3/30 | Dirac delta		          | 7.5   | | |
 | | | | | |
