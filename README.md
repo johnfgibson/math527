@@ -47,12 +47,12 @@ Teaching Assistants
 | M 3/19 | definitions, examples         | 7.1 | | |
 | W 3/21 | derivatives, solving ODEs     | 7.2 | | |  
 | F 3/23 | s-translation	          | 7.3.1 | | | 
-| M 3/26 | t-translation (Heaviside)     | 7.3.2 |  [HW6](hws/hw6.pdf) due Tue 3/27 | |
+| M 3/26 | t-translation (Heaviside)     | 7.3.2 |  [HW6](hws/hw6.pdf) due Tue 3/27 | [HW6 solns](hws/hw6solns.pdf) |
 | W 3/28 | | | | |                                       
 | F 3/30 | Dirac delta		          | 7.5   | | |
 | | | | | |
 | | **LINEAR ALGEBRA** | | | |
-| M 4/02 | vectors and matrices          | App   | HW7 due Tue 4/03 | |
+| M 4/02 | vectors and matrices          | App   | [HW7](hws/hw7.pdf) due Tue 4/03 | |
 | W 4/04 | systems of equations          |       | | |
 | F 4/05 | eigenvalues, eigenvectors |
 | M 4/09 |                               |       | HW8 due Tue 4/10 | |
@@ -73,6 +73,7 @@ Teaching Assistants
 | W 5/16 | FINAL EXAM 3:30-5:30pm | | | |            
 
 Note: 
+
   * Lecture topics may shift slightly by date, but homeworks and exam dates will not change.
   * Exams will take place during lecture time (1:10-2:00pm) in the lecture hall plus another room to be determined. 
   * Readings are sections in Zill *First Course in Differential Equations with Modeling Applications, 10th ed.* If you use another text, find the relevant reading using the table of contents or index.
