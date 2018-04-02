@@ -50,12 +50,12 @@ Teaching Assistants
 | M 3/26 | t-translation (Heaviside)     | 7.3.2 |  [HW6](hws/hw6.pdf) due Tue 3/27 | [HW6 solns](hws/hw6solns.pdf) |
 | W 3/28 | | | | |                                       
 | F 3/30 | Dirac delta		          | 7.5   | | |
+| M 4/02 | convolution          |  | [HW7](hws/hw7.pdf) due Tue 4/03 | |
 | | | | | |
 | | **LINEAR ALGEBRA** | | | |
-| M 4/02 | vectors and matrices          | App   | [HW7](hws/hw7.pdf) due Tue 4/03 | |
-| W 4/04 | systems of equations          |       | | |
-| F 4/05 | eigenvalues, eigenvectors |
-| M 4/09 |                               |       | HW8 due Tue 4/10 | |
+| W 4/04 | vectors and matrices          | | | |
+| F 4/05 | systems of equations          | | | |
+| M 4/09 |  eigenvalues, eigenvectors    |       | HW8 due Tue 4/10 | |
 | W 4/11 | EXAM #3 | | | |
 | | | | | | 
 | | **SYSTEMS OF DIFFERENTIAL EQUATIONS** | | | |
