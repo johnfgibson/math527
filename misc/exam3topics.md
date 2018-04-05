@@ -1,4 +1,4 @@
-# Exam 2 
+# Exam 3: Laplace transforms
 
 ## Expectations
 ​
@@ -14,7 +14,7 @@ including the techniques of
 
 You are free to make, bring, and use a table of Laplace transforms for the exam. The table should be on one side
 of an $8.5 \times 11$ sheet of paper. Keep it to just Laplace transforms, please --no worked-out problems, definitions, 
-etc.  
+etc.  The exam will **not** utilize exotic transforms we haven't touched on in lecture or homework.
 
 ## Advice
 
