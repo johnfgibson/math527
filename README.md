@@ -56,7 +56,7 @@ Teaching Assistants
 | W 4/04 | vectors and matrices          | | | |
 | F 4/05 | systems of equations          | | | |
 | M 4/09 |             |       | [HW8](hws/hw8.pdf) **ungraded** | |
-| W 4/11 | EXAM #3  [expectations, locations](misc/exam2topics.md) | | | |
+| W 4/11 | EXAM #3  [expectations, locations](misc/exam3topics.md) | | | |
 | | | | | | 
 | | **SYSTEMS OF DIFFERENTIAL EQUATIONS** | | | |
 | F 4/13 | ODEs in matrix form           | 8.1 | | |
