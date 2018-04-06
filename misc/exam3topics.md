@@ -6,7 +6,7 @@ For exam 3, you should be able to solve linear constant coefficient initial valu
 including the techniques of
   * partial fractions
   * complete the square
-  * $s$- and $t$-translation rules
+  * s- and t-translation rules
   * Heaviside functions 
   * Dirac delta functions
   * convolution
