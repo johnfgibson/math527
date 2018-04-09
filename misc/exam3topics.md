@@ -31,9 +31,9 @@ etc.  The exam will **not** utilize exotic transforms we haven't touched on in l
 
 | sections  | room | time |
 |-----------|------|------|
-| 1 2 4 6 9 | Spaulding 120 | 1:10-2:00pm Wed Mar 7 |
-| 3 5 7 8   | Horton 210  | 1:10-2:00pm Wed Mar 7   |
-| extra time | Kingsbury 390 | 1:10-2:35pm Wed Mar 7|
+| 1 2 4 6 9 | Spaulding 120 | 1:10-2:00pm Wed Apr 11|
+| 3 5 7 8   | Horton 210  | 1:10-2:00pm Wed Apr 11   |
+| extra time | Kingsbury 390 | 1:10-2:35pm Wed Apr 11 |
 
 In Spaulding 120, sit in alternate seats starting with the first seat off the interior aisle. 
 
