@@ -55,7 +55,7 @@ Teaching Assistants
 | | **LINEAR ALGEBRA** | | | |
 | W 4/04 | vectors and matrices          | | | |
 | F 4/05 | systems of equations          | | | |
-| M 4/09 |             |       | [HW8](hws/hw8.pdf) **ungraded** | |
+| M 4/09 |             |       | [HW8](hws/hw8.pdf) **ungraded** | [HW8 solns](hws/hw8solns.pdf)|
 | W 4/11 | EXAM #3  [expectations, locations](misc/exam3topics.md) | | | |
 | | | | | | 
 | | **SYSTEMS OF DIFFERENTIAL EQUATIONS** | | | |
