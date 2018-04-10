@@ -19,7 +19,7 @@ Teaching Assistants
 
 | date | topic | reading | homework | solutions |
 |------|-------|---------|----------|-----------|
-|  | **FIRST ORDER DIFFERENTIAL EQUATIONS** |  |  | |
+|  | **FIRST ORDER DIFF EQNS** |  |  | |
 | W 1/24 | separable eqns      |  2.2 |  [HW0](hws/hw0-ungraded.pdf) ungraded | |
 | F 1/26 | 1st order linear    |      |  |  |
 | M 1/29 | partial derivatives |  2.3 |  |  |
@@ -30,7 +30,7 @@ Teaching Assistants
 | F 2/09 | solution intervals  |  1.1-2 |  | |
 | M 2/12 | EXAM #1 [expectations, locations](misc/exam1topics.md) | | [sample exam](misc/exam1sample.pdf) | [sample exam solns ](misc/exam1samplesolns.pdf) | |
 | | | | |
-| | **HIGHER-ORDER DIFFERENTIAL EQUATIONS** | | | | 
+| | **HIGHER-ORDER DIFF EQNS** | | | | 
 | W 2/14 | y = e^(lambda t) is your friend |  4.1 | | | 
 | F 2/16 | repeated roots, reduction of order | 4.2 | | |
 | M 2/19 | complex roots, Euler formula  | 4.3 | | | 
@@ -58,7 +58,7 @@ Teaching Assistants
 | M 4/09 |             |       | [HW8](hws/hw8.pdf) **ungraded** | [HW8 solns](hws/hw8solns.pdf), [corrections](hws/hw8solns-corrections.md)|
 | W 4/11 | EXAM #3  [expectations, locations](misc/exam3topics.md) | | | |
 | | | | | | 
-| | **SYSTEMS OF DIFFERENTIAL EQUATIONS** | | | |
+| | **SYSTEMS OF DIFF EQNS** | | | |
 | F 4/13 | ODEs in matrix form           | 8.1 | | |
 | M 4/16 | real eigenvalues, distinct	  | 8.2.1 | | |
 | W 4/18 | | | | |
