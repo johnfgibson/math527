@@ -61,9 +61,9 @@ Teaching Assistants
 | | **SYSTEMS OF DIFF EQNS** | | | |
 | F 4/13 | ODEs in matrix form           | 8.1 | | |
 | M 4/16 | real eigenvalues, distinct	  | 8.2.1 | | |
-| W 4/18 | | | | |
+| W 4/18 | complex eigenvalues| 8.2.3 | | |
 | F 4/20 | real eigenvalues, repeated	  | 8.2.2 | | |
-| M 4/23 | complex eigenvalues           | 8.2.3 | HW9 due Tue 4/24 | |
+| M 4/23 |           | | HW9 due Tue 4/24 | |
 | W 4/25 | | | | |
 | F 4/27 | phase portraits               |       | | |
 | M 4/30 | stability                     |       | HW10 due Tue 5/01 | |
