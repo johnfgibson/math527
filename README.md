@@ -63,11 +63,11 @@ Teaching Assistants
 | M 4/16 | real eigenvalues, distinct	  | 8.2.1 | | |
 | W 4/18 | complex eigenvalues| 8.2.3 | | |
 | F 4/20 | real eigenvalues, repeated	  | 8.2.2 | | |
-| M 4/23 |           | | HW9 due Tue 4/24 | |
-| W 4/25 | | | | |
+| M 4/23 |           | | | |
+| W 4/25 | | | HW9 due Thu 4/26 | |
 | F 4/27 | phase portraits               |       | | |
-| M 4/30 | stability                     |       | HW10 due Tue 5/01 | |
-| W 5/02 | | | | |
+| M 4/30 | stability                     |       | | |
+| W 5/02 | | | HW10 due Tue 5/01 | |
 | F 5/04 | numerical methods             |       | | |
 | M 5/07 | chaos                         |       | | |
 | W 5/16 | FINAL EXAM 3:30-5:30pm | | | |            
