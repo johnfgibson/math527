@@ -65,12 +65,13 @@ Teaching Assistants
 | F 4/20 | real eigenvalues, repeated	  | 8.2.2 | | |
 | M 4/23 | [phase portraits](lectures/lecture-35-phaseplot.ipynb)     | | | |
 | W 4/25 | | | [HW9 due Thu 4/26](hws/hw9.pdf) | |
-| F 4/27 | phase portraits               |       | | |
-| M 4/30 | stability                     |       | | |
-| W 5/02 | | | [HW10 ungraded](hws/hw10.pdf) | |
-| F 5/04 | numerical methods             |       | | |
-| M 5/07 | chaos                         |       | | |
+| F 4/27 |                |       | | |
+| M 4/30 | [Lorenz attractor, equilibria](lectures/lecture-39-lorenz.ipynb)   |       | | |
+| W 5/02 | [Lorenz bifurcations](lectures/lecture-40-lorenz.ipynb)  | | [HW10 ungraded](hws/hw10.pdf) | |
+| F 5/04 |              |       | | |
+| M 5/07 | [Linearization of nonlinear pendulum](lecture-42-pendulum.ipynb)            |       | | |
 | W 5/16 | FINAL EXAM [expectations, locations](misc/finaltopics.md) | |[sample problems](misc/finalsample.pdf) | |            
+
 
 Note: 
 
