@@ -70,7 +70,7 @@ Teaching Assistants
 | W 5/02 | | | [HW10 ungraded](hws/hw10.pdf) | |
 | F 5/04 | numerical methods             |       | | |
 | M 5/07 | chaos                         |       | | |
-| W 5/16 | FINAL EXAM [expectations, locations](misc/finaltopics.md) | | | |            
+| W 5/16 | FINAL EXAM [expectations, locations](misc/finaltopics.md) | |[sample problems](misc/finalsample.pdf) | |            
 
 Note: 
 
