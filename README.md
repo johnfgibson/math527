@@ -64,7 +64,7 @@ Teaching Assistants
 | W 4/18 | complex eigenvalues| 8.2.3 | | |
 | F 4/20 | real eigenvalues, repeated	  | 8.2.2 | | |
 | M 4/23 | [phase portraits](lectures/lecture-35-phaseplot.ipynb)     | | | |
-| W 4/25 | | | [HW9 due Thu 4/26](hws/hw9.pdf) | |
+| W 4/25 | | | [HW9](hws/hw9.pdf) | [HW9 solns](hws/hw9solns.pdf) | 
 | F 4/27 |                |       | | |
 | M 4/30 | [Lorenz attractor, equilibria](lectures/lecture-39-lorenz.ipynb)   |       | | |
 | W 5/02 | [Lorenz bifurcations](lectures/lecture-40-lorenz.ipynb)  | | [HW10 ungraded](hws/hw10.pdf) | |
