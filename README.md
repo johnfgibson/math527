@@ -67,7 +67,7 @@ Teaching Assistants
 | W 4/25 | | | [HW9](hws/hw9.pdf) | [HW9 solns](hws/hw9solns.pdf) | 
 | F 4/27 |                |       | | |
 | M 4/30 | [Lorenz attractor, equilibria](lectures/lecture-39-lorenz.ipynb)   |       | | |
-| W 5/02 | [Lorenz bifurcations](lectures/lecture-40-lorenz.ipynb)  | | [HW10 ungraded](hws/hw10.pdf) | |
+| W 5/02 | [Lorenz bifurcations](lectures/lecture-40-lorenz.ipynb)  | | [HW10 ungraded](hws/hw10.pdf) | [HW10 solns](hws/hw10solns.pdf) |
 | F 5/04 |              |       | | |
 | M 5/07 | [Linearization of nonlinear pendulum](lecture-42-pendulum.ipynb)            |       | | |
 | W 5/16 | FINAL EXAM [expectations, locations](misc/finaltopics.md) | |[sample problems](misc/finalsample.pdf) | |            
